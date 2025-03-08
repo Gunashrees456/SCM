@@ -1,3 +1,6 @@
 #include<stdio.h>
 int main(){
-nt num1,num2,product;
+int num1,num2,product;
+printf("enter two integers:");
+scanf("%d %d",&num1,&num2);
+
