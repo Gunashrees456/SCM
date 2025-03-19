@@ -2,3 +2,7 @@
 <head>
 <title>Links in HTML</title>
 </head>
+<body>
+<a href="https://www.google.com">Visit Google</a>
+</body>
+</html>
