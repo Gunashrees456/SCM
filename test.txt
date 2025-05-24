@@ -4,3 +4,4 @@ cse
 aiml
 
 new courses
+complete the details
